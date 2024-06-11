@@ -7,3 +7,4 @@ class EmployeeAccount {
     public $employee_password;
     public $employee_account_status;
 }
+?>
